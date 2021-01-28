@@ -11,5 +11,9 @@ public class Process {
     @Async
     public void doProcess1() throws InterruptedException {
         Thread.sleep(5000);
+
+        String a  = "a";
+
+
     }
 }
