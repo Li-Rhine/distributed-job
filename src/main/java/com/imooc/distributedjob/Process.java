@@ -14,6 +14,7 @@ public class Process {
 
         String a  = "a";
 
+        "b";
 
     }
 }
